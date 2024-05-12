@@ -1,5 +1,6 @@
 void main() {
   section sec = new section(20, "Kumar");
+  sec.gender = "M";
 }
 
 class school {
