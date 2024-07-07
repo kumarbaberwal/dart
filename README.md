@@ -7,15 +7,15 @@ And Also you can learn Dart by reading and practicing Dart.
 <br>
 <h1>Sequence of the files :- </h1>
 <br>
-1.) Data Types and Variables <br>
-2.) List and Map Data Types <br>
-3.) Final and Const Keyword <br>
-4.) If - Else If - Else <br>
-5.) Ternary Conditions <br>
-6.) For Loop <br>
-7.) While Loop <br>
-8.) Switch Statements <br>
-9.) Break and Continue <br>
+01.) Data Types and Variables <br>
+002.) List and Map Data Types <br>
+03.) Final and Const Keyword <br>
+04.) If - Else If - Else <br>
+05.) Ternary Conditions <br>
+06.) For Loop <br>
+07.) While Loop <br>
+08.) Switch Statements <br>
+09.) Break and Continue <br>
 10.) Functions <br>
 11.) Positional Parameteres <br>
 12.) Named Parameters <br>
@@ -30,3 +30,4 @@ And Also you can learn Dart by reading and practicing Dart.
 21.) Abstract Class <br>
 22.) Extends and Implements Keyword <br>
 23.) Mixin <br>
+24.) Synchronous Functions <br>
